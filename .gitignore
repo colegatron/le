@@ -1,0 +1,5 @@
+account*
+curl*
+# Avoid push certs for folders with a dot in the name (domains.com/*)
+*[\.]*/*
+LEEME
