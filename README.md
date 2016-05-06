@@ -1,5 +1,5 @@
 # le: means simp`Le`
-##### Fork of the great job of: [NeilPang/le](https://github.com/Neilpang/le) and [mbentley/dns-r53.sh](https://gist.github.com/mbentley/d5da0bf962f050dd07ec)
+##### Fork of the great job of: [NeilPang/le](https://github.com/Neilpang/le) and [mbentley/dns-r53.sh](https://gist.github.com/mbentley/d5da0bf962f050dd07ec) to add AWS Route53 support
 
 Simplest shell script for LetsEncrypt free Certificate client
 
